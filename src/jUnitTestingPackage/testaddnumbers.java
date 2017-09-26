@@ -7,6 +7,7 @@ import org.junit.Test;
 
 public class testaddnumbers {
 
+	
 	@Test
 	public void test() {
 		jUnitFunction jf=new jUnitFunction();
