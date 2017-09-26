@@ -12,6 +12,6 @@ public class testaddstrings {
 		String result=jf.addstrings("hell", "o");
 		assertEquals("hello",result);
 	}
-	
+
 
 }
